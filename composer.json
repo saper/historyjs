@@ -1,4 +1,10 @@
 {
     "name": "saper/historyjs",
-    "description": "Just a plain history.js"
+    "description": "Just a plain history.js",
+    "homepage": "https://github.com/browserstate/history.js",
+    "licenses": [
+    {
+        "type": "New-BSD",
+        "url": "http://creativecommons.org/licenses/BSD/"
+    }
 }
