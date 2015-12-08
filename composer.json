@@ -3,9 +3,5 @@
     "description": "Just a plain history.js",
     "version": "1.8.0",
     "homepage": "https://github.com/browserstate/history.js",
-    "licenses": [
-    {
-        "type": "New-BSD",
-        "url": "http://creativecommons.org/licenses/BSD/"
-    }
+    "license": "BSD-2-Clause"
 }
